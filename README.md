@@ -8,3 +8,36 @@ This PCF control allows users to view PDF attachments stored on Email records di
 - Works entirely within the form — no need to navigate away or download files
 - Improves productivity by giving instant access to important attachments
 
+## Installation
+
+### Import Solution
+1. Download the managed solution zip file for this PCF control.
+2. Go to the Power Apps Maker Portal.
+3. Select the correct environment from the top right corner.
+4. Navigate to **Solutions** in the left sidebar.
+5. Click **Import solution** in the top header.
+6. Click **Browse** and select the downloaded solution zip file.
+7. Click **Next** and follow the on-screen instructions to finish the import.
+
+### Add to Model-Driven App
+1. Open the target form for the Email entity in editing mode.
+2. Select the field (file column) where the PDF Viewer will be applied.
+3. Choose **Control** 
+4. Configure any control properties if required.
+5. Save and publish the form.
+
+## Usage
+- Open any Email record with PDF attachments.
+- The PDF Viewer control will automatically load the first attachment.
+- Use the **Next / Previous buttons** to navigate between multiple attachments.
+- Use the **search functionality** to find specific words within the PDF with **Next / Previous buttons**.
+- Page through large PDFs using the built-in paging support.
+- View attachments directly in the form without downloading or leaving the page.
+
+## Creator
+Zahab Imran
+
+## License
+This project is licensed under the MIT License.
+
+
