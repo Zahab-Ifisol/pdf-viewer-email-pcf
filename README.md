@@ -11,7 +11,8 @@ This PCF control allows users to view PDF attachments stored on Email records di
 ## Installation
 
 ### Import Solution
-1. Download the managed solution zip file for this PCF control.
+1. You can download the managed solution directly using the link below:
+   [Download the PDF Viewer Control Solution](<https://github.com/Zahab-Ifisol/pdf-viewer-email-pcf/blob/main/pdf-viewer-email-pcf.zip>)
 2. Go to the Power Apps Maker Portal.
 3. Select the correct environment from the top right corner.
 4. Navigate to **Solutions** in the left sidebar.
